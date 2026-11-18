@@ -29,8 +29,8 @@ function Project() {
         "An expense tracking application to manage daily income and expenses with a clean interface.",
       image: "/expense.png",
       technologies: ["React.js", "CSS", "JavaScript"],
-      liveLink: "#",
-      githubLink: "#"
+      liveLink: "https://expense-tracker-prathamesh.netlify.app/",
+      githubLink: "https://github.com/Prathamesh25-ctrl/Expense-Tracker"
     }
   ]
 
